@@ -1,4 +1,4 @@
-# Archery Game
+# Archery Game - LICENCE 2
 
 ## Mise en place du TP
 
